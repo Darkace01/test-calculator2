@@ -1,0 +1,10 @@
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\bin\Debug\Test calculator.exe.config
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\bin\Debug\Test calculator.exe
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\bin\Debug\Test calculator.pdb
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test calculator.csprojAssemblyReference.cache
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test_calculator.Calculator.resources
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test_calculator.Properties.Resources.resources
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test calculator.csproj.GenerateResource.cache
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test calculator.csproj.CoreCompileInputs.cache
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test calculator.exe
+C:\Users\Kazeem Quadri\source\repos\Test calculator\Test calculator\obj\Debug\Test calculator.pdb
